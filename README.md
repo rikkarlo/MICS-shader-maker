@@ -1,7 +1,7 @@
 # MICS-shader-maker
 
 
-[Download the plugin from here!](https://github.com/rikkarlo/MICS-shader-maker/releases/download/v1.7.0/MICS.shader.maker.1.7.0.zip)
+[Download the plugin from here!](https://github.com/rikkarlo/MICS-shader-maker/releases/download/v1.7.4/MICS_ShaderMaker_174.zip)
 
 
 This Blender plugin was developed to simplify importing texture maps created via RelightLAB.
